@@ -8,10 +8,14 @@ I'm interested in building HR Technology and People Analytics solutions that hel
 ### Current Focus
 - HR Analytics
 - People Analytics
-- Power BI
-- SQL
+- AI
+- ML
+- Excel
 - Python
-- SAP SuccessFactors
+- SAP Successfactors
+- Power BI
+- Tableau
+- SQL
 
 ### Featured Projects
 
